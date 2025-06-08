@@ -1,7 +1,11 @@
 # TextFinder
 단어 찾기 (QT 예제 - 확장버전)
 
-![image](https://github.com/user-attachments/assets/4f2513b4-26ca-4912-b256-1e69c94da60e)
+![image](https://github.com/user-attachments/assets/ada76eda-dc11-401f-a12e-7b5a1ee20e10)<br>
+공식문서를 보고 만든 TextFinder<br>
+
+![image](https://github.com/user-attachments/assets/4f2513b4-26ca-4912-b256-1e69c94da60e)<br>
+기능확장 TextFinder<br>
 
 Find: 현재 커서 다음의 단어를 찾기<br>
 Back: 현재 커서 앞의 단어를 찾기    (확장)<br>
